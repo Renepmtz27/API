@@ -36,17 +36,8 @@
         "Teleportation",
         "Interdimensional travel"
       ]
-    },
-    {
-      "name" : "Hombre araña",
-      "age" : 39,
-      "secretIdentity" : "Jane Wilson",
-      "powers" : [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
-      ]
-    }  
+    }
+     
  
   ]
 }
